@@ -1,0 +1,98 @@
+body {
+    font-size: 15px;
+}
+header{
+  background: deepskyblue;
+  height: 110px
+}
+.comname {
+  font-size:45px;
+  color:white;
+  font-weight: bold;
+  margin-top: -70px;
+  margin-left: 110px;
+  border-left: 2px solid white;
+}
+.logo {
+  height: 90px;
+  border-radius: 6px;
+  margin: 10px 10px 0px 10px;
+}
+.navbar {
+  float : right;
+  text-decoration: none;
+  border:2px double deepskyblue ;
+  margin-top: -55px;
+  margin-right: 20px;
+  border-radius: 50px;
+  background-color: white;
+  padding: 10px;
+  word-spacing: 15px;
+}
+.navbar a{
+  text-decoration: none;
+  color:black;
+}
+.navbar a:hover {
+  background-color: deepskyblue;
+  border-radius:5px;
+  padding: 3px;
+}
+.navbar a.active {
+  background-color: deepskyblue;
+  border-radius: 5px;
+  padding: 3px;
+}
+.ico {
+  margin-right: 5px;
+  margin-top: 5px;
+}
+.Mkr {
+  margin-left: 10px;
+}
+.updateSec {
+  float: right;
+  border: 2px double deepskyblue;
+  border-radius: 50px;
+  background-color: white;
+  color:black;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 10px;
+}
+.uph1 {
+  font-size: 40px;
+}
+.Backbtn {
+  height: 50px;
+  float:right;
+  margin-top: 1610px;
+  padding-left:40px;
+  padding-right: 40px;
+  background-color:black;
+}
+.Backbtn a {
+    color:white;
+  text-decoration:none;
+}
+.pythonjpg {
+  height: 100px;
+  width: 100px;
+}
+.Lang1 {
+  border:3px double black;
+  border-radius:5px;
+  width: 150px;
+  margin-left: 70px;
+  margin-top: 70px;
+  padding-left: 27px;
+}
+.Lang2 {
+  border:3px double black;
+  border-radius:5px;
+  width: 150px;
+  margin-left: 740px;
+  margin-top: -200px;
+  padding-left: 27px;
+}
+
